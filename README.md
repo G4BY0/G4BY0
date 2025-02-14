@@ -33,6 +33,7 @@ I am a **Software Engineering** student, currently in the beggining through my d
   <a href="https://www.reddit.com/user/G4BY-/"><img src="https://img.shields.io/badge/Reddit-1DA1F2?style=for-the-badge&logo=reddit&logoColor=white&color=black" /></a>
   <a href="https://ziggit.dev/u/g4by/summary"><img src="https://img.shields.io/badge/Ziggit-1DA1F2?style=for-the-badge&logo=ziggit&logoColor=white&color=black" /></a>
   <a href="https://stackoverflow.com/users/20367736/g4by"><img src="https://img.shields.io/badge/Stackoverflow-1DA1F2?style=for-the-badge&logo=Stackoverflow&logoColor=white&color=black" /></a>
+  <a href="https://users.rust-lang.org/u/g4by/"><img src="https://img.shields.io/badge/usersRustLang-1DA1F2?style=for-the-badge&logo=Rust&logoColor=white&color=black" /></a>
 
 </div>
 
