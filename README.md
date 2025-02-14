@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/G4BY0">AAL1X</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/G4BY0">G4BY0</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
@@ -25,12 +25,11 @@ I am a **Software Engineering** student, currently in the beggining through my d
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:leonardobravoricapa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/leonardo-bravo-4120b8228/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/leonm.br"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/leonm_br"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-  <a href="https://www.kaggle.com/defaltal1x"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
-  <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a>
+  <a href="mailto:gabyguereta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-guereta-108389255/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/gabiguereta_/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="https://https://x.com/GGUERETA_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  
 </div>
 
 <br>
@@ -46,38 +45,35 @@ I am a **Software Engineering** student, currently in the beggining through my d
 
 <img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 
-###### Frontend Development:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+###### Artificial Intelligence
+[Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)&nbsp;
 
 ###### Backend & Frameworks:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FplatformIO-orange)
+![Static Badge](https://img.shields.io/badge/Arduino-blue?color=blue&link=https%3A%2F%2Fwww.arduino.cc%2F)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
+
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)&nbsp;
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)&nbsp;
+
 
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-
-
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)&nbsp;
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)&nbsp;
 <!-- #### ML/DL -->
 
 ###### Database Management:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-###### Development Tools:
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)&nbsp;
 
 ###### Development Environments:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)&nbsp;
 <br>
 <br>
