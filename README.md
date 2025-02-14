@@ -2,12 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=35&duration=3000&pause=1000&color=C23BEE&multiline=true&width=1000&lines=Hello+geeks,+%F0%9F%91%8B+It's+me+G4BY0...)](https://git.io/typing-svg)
 
-<a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87" align="right">
-  <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Pluralsight GIF" width="370" height="290">
-</a>
-
 ###### Software Engineering Student
-![](https://komarev.com/ghpvc/?username=guruprasath-v&color=C23BEE&style=plasticabbreviated=true)
+![](https://komarev.com/ghpvc/?username=G4BY0-v&color=C23BEE&style=plasticabbreviated=true)
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
