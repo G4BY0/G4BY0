@@ -29,8 +29,11 @@ I am a **Software Engineering** student, currently in the beggining through my d
   <a href="mailto:gabyguereta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/gabriel-guereta-108389255/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
   <a href="https://www.instagram.com/gabiguereta_/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://https://x.com/GGUERETA_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-  
+  <a href="https://x.com/GGUERETA_"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
+  <a href="https://www.reddit.com/user/G4BY-/"><img src="https://img.shields.io/badge/Reddit-1DA1F2?style=for-the-badge&logo=reddit&logoColor=white&color=black" /></a>
+  <a href="https://ziggit.dev/u/g4by/summary"><img src="https://img.shields.io/badge/Ziggit-1DA1F2?style=for-the-badge&logo=ziggit&logoColor=white&color=black" /></a>
+  <a href="https://stackoverflow.com/users/20367736/g4by"><img src="https://img.shields.io/badge/Stackoverflow-1DA1F2?style=for-the-badge&logo=Stackoverflow&logoColor=white&color=black" /></a>
+
 </div>
 
 <br>
@@ -59,6 +62,8 @@ I am a **Software Engineering** student, currently in the beggining through my d
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)&nbsp;
+![Raspberry_PI](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)&nbsp;
+![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)&nbsp;
 ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)&nbsp;
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)&nbsp;
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)&nbsp;
