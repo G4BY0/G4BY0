@@ -31,7 +31,7 @@ I am a **Software Engineering** student, currently in the beggining through my d
   <a href="https://www.instagram.com/gabiguereta_/"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
   <a href="https://x.com/GGUERETA_"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
   <a href="https://www.reddit.com/user/G4BY-/"><img src="https://img.shields.io/badge/Reddit-1DA1F2?style=for-the-badge&logo=reddit&logoColor=white&color=black" /></a>
-  <a href="https://ziggit.dev/u/g4by/summary"><img src="https://img.shields.io/badge/Ziggit-1DA1F2?style=for-the-badge&logo=ziggit&logoColor=white&color=black" /></a>
+  <a href="https://ziggit.dev/u/g4by/summary"><img src="https://img.shields.io/badge/Ziggit-1DA1F2?style=for-the-badge&logo=Zig&logoColor=white&color=black" /></a>
   <a href="https://stackoverflow.com/users/20367736/g4by"><img src="https://img.shields.io/badge/Stackoverflow-1DA1F2?style=for-the-badge&logo=Stackoverflow&logoColor=white&color=black" /></a>
   <a href="https://users.rust-lang.org/u/g4by/"><img src="https://img.shields.io/badge/usersRustLang-1DA1F2?style=for-the-badge&logo=Rust&logoColor=white&color=black" /></a>
 
@@ -75,7 +75,6 @@ I am a **Software Engineering** student, currently in the beggining through my d
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)&nbsp;
 
-
 ###### Deployment & Cloud Services:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
@@ -93,8 +92,6 @@ I am a **Software Engineering** student, currently in the beggining through my d
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)&nbsp;
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-
 
 ###### Development Environments:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
