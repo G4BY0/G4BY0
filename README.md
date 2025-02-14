@@ -6,14 +6,8 @@
   <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="Pluralsight GIF" width="370" height="290">
 </a>
 
-
-
-
-###### Computer Science Engineering Student
+###### Software Engineering Student
 ![](https://komarev.com/ghpvc/?username=guruprasath-v&color=C23BEE&style=plasticabbreviated=true)
-
-<h1><b>Hi there, I'm </b><a href="https://github.com/G4BY0">G4BY0</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
