@@ -20,13 +20,6 @@ I am a **Software Engineering** student, currently in the beggining through my d
 - 📫 Reach out to me at: <a href="gabyguereta@gmail.com">gabyguereta@gmail.com</a>
 <br>
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=AAL1X&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
-
 <!-- Social Links -->
 <div align="center">
   <a href="mailto:gabyguereta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
