@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=35&duration=3000&pause=1000&color=C23BEE&multiline=true&width=1000&lines=Hello+geeks,+%F0%9F%91%8B+It's+me+G4BY0...)](https://git.io/typing-svg)
 
-###### Software Engineering Student
+###### Insane Electronic Technician
 ![](https://komarev.com/ghpvc/?username=G4BY0-v&color=C23BEE&style=plasticabbreviated=true)
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <img align="right" width=200px alt="Unicorn" src="https://i.imgur.com/5ebiiM8.gif"/>
 
-I am a **Software Engineering** student, currently in the beggining through my degree, I am expanding my knowledge in both back-end and front-end development. I have experience with embbebed systems, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
+I am a **Electronic Technician**. Right now, I am expanding my knowledge in both back-end and front-end development and studying Software Engineering. I have experience with embbebed systems, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 - 📚 I’m currently learning ...
   - *Zig*
   - *Rust*
